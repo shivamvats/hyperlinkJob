@@ -1,6 +1,6 @@
-#hyperlinkJob
+# hyperlinkJob
 
-###Motivation
+### Motivation
 
 Many at times, we get interrupted while working on or doing something. Say you
 are editing a couple of files related to a project and suddenly something more
@@ -11,7 +11,7 @@ might take a note somewhere to get back to that project.
 
 This application is for the latter group of people.
 
-###Goal
+### Goal
 
 For doing something, we usually need to open a couple applications. If you are
 writing a report, you might open your favourite editor, a couple of tabs in the
